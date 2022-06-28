@@ -20,4 +20,4 @@
 
 3. Select an app panel
 
-4. 
+4. 어플에서 적용한 것 실행
