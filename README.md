@@ -22,6 +22,8 @@
 3. Authorization에서 필요한 권한 추가
 
 4. Acess ID 및 Access Secret 저장
+
+5. Device ID 및 Asset ID 홈페이지에서 등록
     
   # ACCESS_ID = # your_access_id
   # ACCESS_KEY = # your_access_key
