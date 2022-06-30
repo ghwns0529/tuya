@@ -25,11 +25,10 @@
 
 5. Device ID 및 Asset ID 홈페이지에서 등록
     
-  # ACCESS_ID = # your_access_id
-  # ACCESS_KEY = # your_access_key
-  # USERNAME = # your_username
-  # PASSWORD = # your_password
-  # ASSET_ID = # your_asset_id
-  # DEVICE_ID = # your_device_id
-  # ENDPOINT = "https://openapi.tuyacn.com"
-
+  * ACCESS_ID = "8q3rgpqjqt9x93sjqc3n"
+  * ACESS_KEY = "e7e2b335f9d6471f9631451cf272ff67"
+  * USERNAME = hojun7607@naver.com
+  * PASSWORD = Zkeldanetas1
+  * ASSET_ID = 1537679086535659520
+  * DEVICE_ID = "vdevo165648807943777"
+  * ENDPOINT = "https://openapi.tuyacn.com"
